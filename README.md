@@ -21,7 +21,7 @@ React + Springboot JWT authentication project
   - Create TOKEN and send to client.
   - Access the TOKEN from the client and find the rolebase authorities and API URL 
   - Implement Login and Logout page.
-  - Create SignUp page for new user registration in the system (It's always get user role )
+  - Create SignUp page for new user registration in the system (Which is always create USER role so modify as per your learn )
   - Design EMPLOYEE entity for performing some REST API operation like GET, DELETE, PET, UPDATE. 
   - Use validation.
   - Hibernate         
